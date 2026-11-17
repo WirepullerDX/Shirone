@@ -1,7 +1,7 @@
 {
 	"name": "blog-shirone-preview",
-	"installCommand": "pnpm install --frozen-lockfile",
-	"buildCommand": "pnpm anime:sync --provider bilibili && pnpm build",
+	"installCommand": "npx --yes --package=node@26.13.0 --package=pnpm@11.28.2 -- pnpm install --frozen-lockfile",
+	"buildCommand": "npx --yes --package=node@26.13.0 --package=pnpm@11.28.2 -- pnpm anime:sync --provider bilibili && npx --yes --package=node@26.13.0 --package=pnpm@11.28.2 -- pnpm build",
 	"assets": {
 		"directory": "./dist",
 		"notFoundStrategy": "404Page"
