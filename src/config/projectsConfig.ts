@@ -16,16 +16,7 @@ export const projectsConfig: ProjectsConfig = withUserConfig("projects", {
 	title: "$t:projects",
 	description: "$t:projectsBanner",
 	categories: [
-		{
-			key: "theme",
-			label: "Theme",
-			icon: "material-symbols:palette-outline-rounded",
-		},
-		{
-			key: "android",
-			label: "Android",
-			icon: "material-symbols:android-rounded",
-		},
+		{ key: "media", label: "表情包", icon: "material-symbols:sticker-outline" },
 	],
 	// disabledKeys: [],
 });
