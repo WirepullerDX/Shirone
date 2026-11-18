@@ -17,14 +17,14 @@ export const musicTracks: readonly TrackDescriptor[] = [
 		id: "yuesheng-jin-xindeng-ming",
 		title: "月声尽，心灯明",
 		artist: "鸣潮先约电台 / jixwang / Cassie Wei",
-		cover: "/assets/music/cover/yuesheng-jin-xindeng-ming.webp",
+		cover: "assets/images/music/yuesheng-jin-xindeng-ming.webp",
 		source: "/assets/music/yuesheng-jin-xindeng-ming.mp3",
 	},
 	{
 		id: "yuanhangxing-de-gaobie",
 		title: "远航星的告别",
 		artist: "鸣潮先约电台 / jixwang / Tarokiki / Emi Evans",
-		cover: "/assets/music/cover/yuanhangxing-de-gaobie.webp",
+		cover: "assets/images/music/yuanhangxing-de-gaobie.webp",
 		source: "/assets/music/yuanhangxing-de-gaobie.mp3",
 	},
 ];

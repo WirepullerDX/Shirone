@@ -3,7 +3,7 @@ title: "加密文章测试：输入密码才能看"
 published: 2026-10-29
 updated: 2026-10-29
 description: "用于验证文章密码、密码提示、错误密码提示，以及解密后图片和脚本重新初始化的测试文章。"
-image: "https://img.rxcdjg.dpdns.org/gallery/r2-test/photo-02.webp"
+image: "./cover.webp"
 tags: ["测试", "密码", "加密"]
 category: "站点维护"
 draft: false
